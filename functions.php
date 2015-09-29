@@ -1,5 +1,17 @@
 <?php
 
+--------------------------------------------------------------
+// create a single.php as single-home.php 
+// put the below code to initialize template name
+
+
+/*
+Template Name Posts: Chapter Home Template
+Description: This part is optional, but helpful for describing the Post Template
+*/
+
+
+--------------------------------------------------------------
 // add this to function.php
 // this will remove post/pages/ if want we can customize according to our custom post types.
 
